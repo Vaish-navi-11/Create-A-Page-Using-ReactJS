@@ -1,0 +1,80 @@
+body {
+  margin: 0;
+  padding: 0;
+  background-color: rgb(0, 183, 255);
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+.Header ul li{
+  display: inline;
+  margin: 10px;
+  /* padding-top: 10px; */
+}
+.Header{
+  color: white;
+  font-weight: bolder;
+  text-shadow: 0.5px 0.5px 0.5px black;
+  font-size: 24px;
+  border: 2px solid royalblue;
+  /* height: 100px; */
+}
+.content{
+  display: block;
+  background-color: rgb(197, 225, 249);
+  margin-top: 0px;
+  top: 0;
+}
+.TableCon{
+  padding: 20px;
+  border: 1px solid royalblue;
+  margin: 0px auto;
+  text-align: center;
+}
+.Table tr td, .Table,.Table tr th{
+  border: 2px solid royalblue;
+  border-collapse: collapse;
+  padding: 10px 20px;
+  margin: 0px auto;
+  
+}
+.FormCon{
+  text-align: center;  
+  border: 2px solid royalblue;
+}
+.FormCon h2{
+  margin: 40px auto 20px;
+}
+.formList{
+  margin:20px;
+}
+.formList input{
+  margin: 20px;
+  padding: 5px;
+}
+.formList input:last-of-type {
+  margin-left: 20px;
+}
+.formList input:nth-of-type(2) {
+  margin-left: 45px;
+}
+.formList input:nth-of-type(1) {
+  margin-left: 40px;
+}
+.formList button{
+  margin-top: 20px;
+  padding: 10px 20px;
+  background-color: royalblue;
+  color: white;
+  border: none;
+  cursor: pointer;
+}
+.formList button:hover{
+  background-color: darkblue;
+}
+.navBar{
+  display: flex;
+  justify-content: space-around;
+}
