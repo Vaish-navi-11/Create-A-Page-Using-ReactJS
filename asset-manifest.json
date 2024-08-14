@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Vaish-navi-11/Create-A-Page-Using-ReactJS/static/css/main.664247be.css",
-    "main.js": "/Vaish-navi-11/Create-A-Page-Using-ReactJS/static/js/main.acc252a9.js",
-    "static/js/453.b7c082f8.chunk.js": "/Vaish-navi-11/Create-A-Page-Using-ReactJS/static/js/453.b7c082f8.chunk.js",
-    "index.html": "/Vaish-navi-11/Create-A-Page-Using-ReactJS/index.html",
-    "main.664247be.css.map": "/Vaish-navi-11/Create-A-Page-Using-ReactJS/static/css/main.664247be.css.map",
-    "main.acc252a9.js.map": "/Vaish-navi-11/Create-A-Page-Using-ReactJS/static/js/main.acc252a9.js.map",
-    "453.b7c082f8.chunk.js.map": "/Vaish-navi-11/Create-A-Page-Using-ReactJS/static/js/453.b7c082f8.chunk.js.map"
+    "main.css": "/Create-A-Page-Using-ReactJS/static/css/main.664247be.css",
+    "main.js": "/Create-A-Page-Using-ReactJS/static/js/main.b43777f2.js",
+    "static/js/453.b7c082f8.chunk.js": "/Create-A-Page-Using-ReactJS/static/js/453.b7c082f8.chunk.js",
+    "index.html": "/Create-A-Page-Using-ReactJS/index.html",
+    "main.664247be.css.map": "/Create-A-Page-Using-ReactJS/static/css/main.664247be.css.map",
+    "main.b43777f2.js.map": "/Create-A-Page-Using-ReactJS/static/js/main.b43777f2.js.map",
+    "453.b7c082f8.chunk.js.map": "/Create-A-Page-Using-ReactJS/static/js/453.b7c082f8.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.664247be.css",
-    "static/js/main.acc252a9.js"
+    "static/js/main.b43777f2.js"
   ]
 }
